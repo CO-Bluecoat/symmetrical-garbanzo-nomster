@@ -1,5 +1,7 @@
 @import "bootstrap";
 
+
+
 .booyah-box {
   -moz-box-shadow: 1px 1px 2px 0 #d0d0d0;
   -webkit-box-shadow: 1px 1px 2px 0 #d0d0d0;
@@ -26,4 +28,9 @@ body {
 
 body {
   font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #BBAD5A;
+  font-family: 'sinkin_sans400_regular';
 }
