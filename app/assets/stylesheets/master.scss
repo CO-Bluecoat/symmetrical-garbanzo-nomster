@@ -16,3 +16,14 @@ h1, h2, h3, h4, h5, h6 {
   margin:0;
   padding:0;
 }
+body {
+  background: image_url('interlaced.png');
+}
+.navbar {
+  background: image_url('beige-tiles');
+  box-shadow: 8px 8px 2px grey;
+}
+
+body {
+  font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+}
