@@ -18,8 +18,9 @@ module Nomster
 
 
     #Add the fonts path
+  config.assets.paths << "#{Rails.root}/app/assets/fonts"
 
-  config.assets.path << "#{Rails.root}/app/assets/fonts"
+  
 
 
   # Precompile additonal assets
